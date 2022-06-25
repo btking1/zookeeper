@@ -135,6 +135,28 @@
         "zany"
       ],
       "id": "13"
+    },
+    {
+      "name": "Galea",
+      "species": "gecko",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Galea",
+      "species": "gecko",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
