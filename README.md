@@ -34,7 +34,7 @@ Zookeeper is a catalog management system that allows users to search for animals
 <p>&nbsp;</p>
 
 
-![SCREENSHOOT](https://github.com/btking1/Employee-Tracker/blob/main/Main-Menu.jpg)
+![SCREENSHOOT](https://github.com/btking1/zookeeper/blob/main/Public/assets/images/zookeeper-screenshot.jpg)
 
 
 <p>&nbsp;</p>
